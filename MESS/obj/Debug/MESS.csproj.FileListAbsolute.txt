@@ -1,0 +1,15 @@
+E:\System\MESS\MESS\bin\Debug\MESS.exe.config
+E:\System\MESS\MESS\bin\Debug\MESS.exe
+E:\System\MESS\MESS\bin\Debug\MESS.pdb
+E:\System\MESS\MESS\obj\Debug\MESS.csprojResolveAssemblyReference.cache
+E:\System\MESS\MESS\obj\Debug\MESS.FrmLogin.resources
+E:\System\MESS\MESS\obj\Debug\MESS.Properties.Resources.resources
+E:\System\MESS\MESS\obj\Debug\MESS.csproj.GenerateResource.Cache
+E:\System\MESS\MESS\obj\Debug\MESS.exe
+E:\System\MESS\MESS\obj\Debug\MESS.pdb
+E:\System\MESS\MESS\obj\Debug\MESS.frmSplash.resources
+E:\System\MESS\MESS\obj\Debug\MESS.FrmDashboard.resources
+E:\System\MESS\MESS\obj\Debug\MESS.FrmAdminstrator.resources
+E:\System\MESS\MESS\obj\Debug\MESS.FrmFarmer.resources
+E:\System\MESS\MESS\obj\Debug\MESS.FrmOfficer.resources
+E:\System\MESS\MESS\obj\Debug\MESS.FrmTips.resources
